@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="home">الصفحة الرئيسية</string>
+    <string name="popular">الأكثر مشاهدة</string>
+    <string name="rated">الأعلى تقييما</string>
+    <string name="latest">الأحدث</string>
+    <string name="upcoming">القادم</string>
+    <string name="playing">الحالى</string>
+    <string name="no_movies">لا يوجد افلام</string>
+    <string name="lang">تغيير اللغة</string>
+    <string name="favorite">المفضلة</string>
+    <string name="trailers">الأعلانات</string>
+    <string name="reviews">التعليقات</string>
+
+
+</resources>

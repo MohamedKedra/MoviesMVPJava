@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MoviesMVP</string>
+    <string name="add_favorite">Add to FavoriteList</string>
+    <string name="remove_favorite">Remove from FavoriteList</string>
+
+    <string name="home">Home</string>
+    <string name="popular">Most Popular</string>
+    <string name="rated">Top Rated</string>
+    <string name="latest">Latest</string>
+    <string name="upcoming">Upcoming</string>
+    <string name="playing">Noew Playing</string>
+    <string name="no_movies">No movies found</string>
+    <string name="lang">Change language</string>
+    <string name="favorite">Favorite</string>
+    <string name="trailers">Trailers</string>
+    <string name="reviews">Reviews</string>
+
+</resources>
